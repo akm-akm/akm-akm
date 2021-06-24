@@ -1,5 +1,3 @@
-# profile
-my profile
 <h1 align="center">Hi 👋, I'm Aditya Kumar Mandal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
