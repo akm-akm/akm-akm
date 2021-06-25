@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/adityakmandal" target="blank"><img src="https://img.shields.io/twitter/follow/adityakmandal?logo=twitter&style=for-the-badge" alt="adityakmandal" /></a> </p>
 
-- 🔭 I’m currently working on [whatsapp bot](https://github.com/akm-akm/akm-bot)
+- 🔭 I’m currently working on [xxx bot](https://github.com/akm-akm/xxx)
 
 - 🌱 I’m currently learning **Nodejs, Python**
 
