@@ -5,7 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akm-akm" alt="akm-akm" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akm-akm)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> <a href="https://twitter.com/adityakmandal" target="blank"><img src="https://img.shields.io/twitter/follow/adityakmandal?logo=twitter&style=for-the-badge" alt="adityakmandal" /></a> </p>
 <p align="center"> 
