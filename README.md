@@ -9,11 +9,10 @@
 <p align="center"> <a href="https://twitter.com/adityakmandal" target="blank"><img src="https://img.shields.io/twitter/follow/adityakmandal?logo=twitter&style=for-the-badge" alt="adityakmandal" /></a> </p>
 <p align="center"> 
   
-- 🔭 I’m currently working on [SAE server](https://github.com/akm-akm/sae-server)
 
 - 🌱 I’m currently learning **Nodejs, Python**
 
-- 📫 How to reach me **adityakmandal@rediffmail.com**
+- 📫 How to reach me **adityakumarmandal@proton.me**
   
 </p>
 <h3 align="center">Connect with me:</h3>
