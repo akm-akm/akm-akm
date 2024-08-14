@@ -10,8 +10,6 @@
 <p align="center"> 
   
 
-- 🌱 I’m currently learning **Nodejs, Python**
-
 - 📫 How to reach me **adityakumarmandal@proton.me**
   
 </p>
